@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringSecurityOAuthClient
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Ankit_Kumar
+Implementation-Vendor-Id: com.epam
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/SpringSecuri
+ tyOAuthClient/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
